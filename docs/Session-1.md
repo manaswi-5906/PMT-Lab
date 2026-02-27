@@ -14,7 +14,7 @@
 
 ## 2.Issues:-
 * Used to report and track problems or tracks ina project.
-* EXAMPLE:* 1)New feature request
+* EXAMPLE:** 1)New feature request
          * 2)Bug found in code
          * 3)Task to complete
 ## 3.Pull Requests:-
