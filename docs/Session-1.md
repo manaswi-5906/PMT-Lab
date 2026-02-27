@@ -63,10 +63,10 @@
 * Mostly used by developers working with AI integrations.
 
 ## BASIC GIT COMMANDS:-
-* 1) git init->Start repository
-* 2) git status->Check project status
-* 3) git add->Add files to staging
-* 4) git commit->Save changes
-* 5) git push->Upload to GitHub
-* 6) git pull->Download from GitHub
-* 7) git clone->copy repository
+* 1)git init->Start repository
+* 2)git status->Check project status
+* 3)git add->Add files to staging
+* 4)git commit->Save changes
+* 5)git push->Upload to GitHub
+* 6)git pull->Download from GitHub
+* 7)git clone->copy repository
