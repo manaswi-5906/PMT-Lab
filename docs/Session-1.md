@@ -1,16 +1,16 @@
 # INTRODUCTION TO GITHUB:
 ## About GitHub:-
- > GitHub is a cloud-based platform where you can store,share and work together with others to write code.
-> Collaborative working,one of GitHub's fundamental features is made possible vy the open-source software,Git upon which GitHub is built.
+ * GitHub is a cloud-based platform where you can store,share and work together with others to write code.
+* Collaborative working,one of GitHub's fundamental features is made possible vy the open-source software,Git upon which GitHub is built.
  
 ## About Git:
-> Git is a version control system that intelligently tracks changes in file.
-> Git is particularly useful when you and a group of people are all amking changes to the source file at the same time.
+* Git is a version control system that intelligently tracks changes in file.
+* Git is particularly useful when you and a group of people are all amking changes to the source file at the same time.
 
 ## GITHUB SIDEBAR MENU:-
 ## 1.Home:-
-* >Shows activity from people you follow.
->Recent repositories,notifications and updates.
+* Shows activity from people you follow.
+*Recent repositories,notifications and updates.
 
 ## 2.Issues:-
 >Used to report and track problems or tracks ina project.
