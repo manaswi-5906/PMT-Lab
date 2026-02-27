@@ -31,7 +31,7 @@
 * 1) Code files
 * 2) README
 * 3) Images
-* 4)Documentation
+* 4) Documentation
 * A repository=Open folder
 ## 5.Projects:-
 * Used for managing tasks visually.
@@ -48,16 +48,16 @@
 * It suggests:code,functions,logic(while type)
 ## 9.Explore:-
 * Discover:
-* 1)Popular repositories
+* 1) Popular repositories
 * 2) Trending projects
 * 3) Open-source contributes
 * 4) Good for learning new timings
 ## 10.Marketplace:-
 * Apps and tools you can connect with GitHub.
 * EXAMPLE:-
-       * 1)CI/CD tools
-       * 2)Security tools
-       * 3)Project Management Apps
+* 1)CI/CD tools
+* 2)Security tools
+* 3)Project Management Apps
 ## 11.MCP Registry:-
 * Used for managing model context protocol integrations.
 * Mostly used by developers working with AI integrations.
