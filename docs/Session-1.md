@@ -1,8 +1,9 @@
-#INTRODUCTION TO GITHUB:
+# INTRODUCTION TO GITHUB:
 ## About GitHub:-
  > GitHub is a cloud-based platform where you can store,share and work together with others to write code.
 > Collaborative working,one of GitHub's fundamental features is made possible vy the open-source software,Git upon which GitHub is built.
-##About Git:
+ 
+## About Git:
 > Git is a version control system that intelligently tracks changes in file.
 > Git is particularly useful when you and a group of people are all amking changes to the source file at the same time.
 
