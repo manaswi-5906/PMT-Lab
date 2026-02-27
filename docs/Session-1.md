@@ -9,7 +9,7 @@
 
 ## GITHUB SIDEBAR MENU:-
 ## 1.Home:-
->Shows activity from people you follow.
+* >Shows activity from people you follow.
 >Recent repositories,notifications and updates.
 
 ## 2.Issues:-
