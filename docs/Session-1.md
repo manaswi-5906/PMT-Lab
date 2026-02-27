@@ -8,11 +8,11 @@
 > Git is particularly useful when you and a group of people are all amking changes to the source file at the same time.
 
 ## GITHUB SIDEBAR MENU:-
-1.Home:-
+## 1.Home:-
 >Shows activity from people you follow.
 >Recent repositories,notifications and updates.
 
-2.Issues:-
+## 2.Issues:-
 >Used to report and track problems or tracks ina project.
 >EXAMPLE:1)New feature request
          2)Bug found in code
