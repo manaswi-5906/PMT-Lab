@@ -7,7 +7,7 @@
 > Git is a version control system that intelligently tracks changes in file.
 > Git is particularly useful when you and a group of people are all amking changes to the source file at the same time.
 
-GITHUB SIDEBAR MENU:-
+## GITHUB SIDEBAR MENU:-
 1.Home:-
 >Shows activity from people you follow.
 >Recent repositories,notifications and updates.
