@@ -28,10 +28,10 @@
 ## 4.Repositories:-
 * Where your projects are stored.
 * Contains:-
-* Code files
-* README
-* Images
-*  Documentation
+* 1) Code files
+* 2) README
+* 3) Images
+* 4)Documentation
 * A repository=Open folder
 ## 5.Projects:-
 >Used for managing tasks visually.
