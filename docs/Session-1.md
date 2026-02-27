@@ -17,7 +17,7 @@
 * EXAMPLE:
 * 1)New feature request
 * 2)Bug found in code
-*   3)Task to complete
+* 3)Task to complete
 ## 3.Pull Requests:-
 * Useds to suggest changes to a project.
 * PROCESS:
