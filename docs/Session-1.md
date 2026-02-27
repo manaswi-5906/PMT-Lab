@@ -20,7 +20,7 @@
 *   3)Task to complete
 ## 3.Pull Requests:-
 * Useds to suggest changes to a project.
- PROCESS:
+* PROCESS:
 * You edit code
 * You request the owner to review
 * They approve and merge
@@ -28,10 +28,10 @@
 ## 4.Repositories:-
 * Where your projects are stored.
 * Contains:-
-       * Code files
-       * README
-       * Images
-       * Documentation
+* Code files
+* README
+* Images
+*  Documentation
 * A repository=Open folder
 ## 5.Projects:-
 >Used for managing tasks visually.
